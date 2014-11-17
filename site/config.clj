@@ -1,6 +1,4 @@
-{:input-dir "site/input"
- :output-dir "site/output"
- :templates-dir "site/templates"
+{:base-dir "site"
  :pages-in-list 6
  :tags-pages [{:tag "index"
                :list-template "index"}
