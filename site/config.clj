@@ -1,5 +1,4 @@
-{:base-dir "site"
- :pages-in-list 6
+{:pages-in-list 6
  :tags-pages [{:tag "index"
                :list-template "index"}
               {:tag "news"
