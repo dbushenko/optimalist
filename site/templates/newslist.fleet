@@ -163,9 +163,9 @@
       <br/>
       <div class='next-prev'>
 	<(if (:next data)   
-	    "><a href='<(:next data)>.html'>Новые</a><" "")>
+	    "><a href='<(:next data)>'>Новые</a><" "")>
 	<(if (:prev data)
-	     "><a href='<(:prev data)>.html'>Старые</a>&nbsp;&nbsp;<" "")>
+	     "><a href='<(:prev data)>'>Старые</a>&nbsp;&nbsp;<" "")>
       </div>
       <br/><br/>
       
